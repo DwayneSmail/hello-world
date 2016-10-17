@@ -1,2 +1,2 @@
 # hello-world
-My first programming project
+Testing my first commit
